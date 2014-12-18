@@ -20,6 +20,7 @@ abstract class Base
     protected $db_name = null;
 
     public static $api_list = array(
+        'table',
         'job',
     );
 
